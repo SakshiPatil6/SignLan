@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342078562081",
+    "project_id": "signlan-2bce9",
+    "storage_bucket": "signlan-2bce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342078562081:android:ee92a117cfb5b3ca06a860",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342078562081-cf0aqo4dq7t9r1ahk37n08n86cirlag1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaX4ANDL1sAlBOGwnXzUSXVasEqRfpC3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342078562081-cf0aqo4dq7t9r1ahk37n08n86cirlag1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

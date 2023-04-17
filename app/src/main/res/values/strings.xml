@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SignLan</string>
+    <string name="login">LOGIN</string>
+    <string name="log">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="reg">Register</string>
+    <string name="un">Enter Username</string>
+    <string name="p">Enter Password</string>
+    <string name="cp">Confirm Password</string>
+    <string name="gmail">abc@gmail.com</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="create_new_account">Create New Account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="join_create">Join / Create</string>
+    <string name="share">share</string>
+    <string name="name">Name</string>
+    <string name="room_code">Room Code</string>
+    <string name="join">Join</string>
+    <string name="create">Create</string>
+    <string name="mic">Mic</string>
+    <string name="leave">Leave</string>
+    <string name="webcam">Webcam</string>
+</resources>
